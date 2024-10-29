@@ -25,3 +25,9 @@ This section covers Python's string manipulation basics.
    - Use `f""`, `.format()`, or `%` for embedding variables in strings.
 
 Explore these basics to handle and manipulate text effectively in Python!
+## Clone this Repository
+
+To clone this repository and explore examples, use the following command:
+
+```bash
+git clone https://github.com/Sadam-Barkat/3-Strings.git
