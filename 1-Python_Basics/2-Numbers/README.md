@@ -20,3 +20,9 @@ This section introduces Python's number types and basic operations.
 
 4. **Random Numbers**:
    - Generate random values with the `random` module (e.g., `random.randint(a, b)`)
+## Clone this Repository
+
+To clone this repository and explore examples, use the following command:
+
+```bash
+git clone https://github.com/Sadam-Barkat/2-Numbers.git
